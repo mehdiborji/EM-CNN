@@ -1,5 +1,5 @@
-# ebv_copy
-Deep learning pipeline for histopathology images using Expectation Maximization iterations
+# EM-CNN
+Deep learning pipeline for classification of histopathology images using Expectation Maximization iterations
 
 scripts:
 
