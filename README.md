@@ -4,8 +4,6 @@ Deep learning pipeline for classification of histopathology images using Expecta
 
 [Hou, L., Samaras, D., Kurc, T.M., Gao, Y., Davis, J.E. and Saltz, J.H., 2016. Patch-based convolutional neural network for whole slide tissue image classification. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2424-2433).](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf)
 
-An alternate/sophisticated implementation from the original team, for the purpose of survival prediction on TCGA can be found here: https://github.com/SBU-BMI/multi_instance_cnn
-
 Scripts:
 
 To run the patch generation pipeline (based on openslide) use:
